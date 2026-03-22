@@ -25,8 +25,6 @@ A lightweight menu bar app that brings the familiar Windows Run experience to yo
 - **Splash Screen** — Clean startup animation
 - **Start at Login** — One-click toggle from the menu bar
 
-## Screenshots
-
 ### Run Dialog
 The dialog appears at the bottom-left of your screen, just like Windows:
 
