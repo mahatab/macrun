@@ -8,6 +8,8 @@ A lightweight menu bar app that brings the familiar Windows Run experience to yo
 ![macOS](https://img.shields.io/badge/macOS-13%2B-black.svg)
 ![Python](https://img.shields.io/badge/python-3.12-yellow.svg)
 
+![MacRun Dialog](macrun.png)
+
 ---
 
 ## Features
