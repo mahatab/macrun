@@ -52,7 +52,7 @@ Translated: calc → Calculator
 
 ```bash
 # Clone the repo
-git clone https://github.com/mursrashid/macrun.git
+git clone https://github.com/mahatab/macrun.git
 cd macrun
 
 # Create virtual environment
